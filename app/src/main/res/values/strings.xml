@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cruz_exer3_LightsOut</string>
+    <string name="lights_out">Lights Out!</string>
+    <string name="nickname_hint">Hello! What\'s your name?</string>
+    <string name="play">Play</string>
+    <string name="count">Tap Count</string>
+    <string name="win">Congratulations</string>
+    <string name="reset">Reset</string>
+</resources>
