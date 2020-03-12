@@ -1,9 +1,18 @@
 <resources>
-    <string name="app_name">cruz_exer3_LightsOut</string>
+    <string name="app_name">cruz_exer5_LightsOutV2</string>
     <string name="lights_out">Lights Out!</string>
     <string name="nickname_hint">Hello! What\'s your name?</string>
     <string name="play">Play</string>
     <string name="count">Tap Count</string>
     <string name="win">Congratulations</string>
+    <string name="lose">Try Again</string>
     <string name="reset">Reset</string>
+    <string name="next">Next</string>
+    <string name="retry">Retry</string>
+    <string name="about_text">Lights Out is a fun game to test your wits and imagination! It was originally released by Tiger Electronics in 1995. A similar game was released by Vulcan Electronics in 1983 named XL-25.\n\nDeveloper: Ryan Andrei Cruz\nCourse: Computer Science\nLab Section: B-6L</string>
+    <string name="rules_text">The goal of the game to turn all of the boxes dark. Every box that you tap will turn them dark, including the four boxes adjacent to them. Should you exceed 15 taps, you lose. However, resetting the board resets your number of taps  too! Good luck and strategize well!</string>
+    <string name="about">About</string>
+    <string name="rules">Rules</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
